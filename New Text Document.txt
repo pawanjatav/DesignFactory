@@ -1,0 +1,25 @@
+hello Asif
+
+I hope you are fine.
+
+This is to inform you that while we sincerely appreciate doing business with you in the past, but accordingly to our records, your payment of Rs. 10,000 for extra work is long overdue. the list of Extra work are given below.
+
+
+1. Filtration of Product :- Filteration are not given on MRButton.in
+
+2. Notification :- Notification is also not given on MRButton.in
+
+3. Size Guide :- Size Guide is given on MRButton.in , but that was a dynamic these are only an image which they were putted, So I have made it dynamic from controlpanel
+
+4. Custom Measurement :- this is also a dynamic which will be handle from control panel.
+
+5. Offer : Offer was not given in MRButton, So for this I need to make from control panel and handle it at user panel
+
+6.Banner :- Dynamic Banner (Not in quotation that it need to be dynamic)
+
+7.About US : Dynamic About US (Not in quotation that it need to be dynamic)
+
+
+I had remind you by making a Call before to ensure that you make the payment on time, but there was no response to that from your end. You are a valuable customer for us and we want to continue to serve you diligently. 
+
+This is to inform you to that due to lack of payment of your web site (thedesignfactoryindia.com) will be block after 2 days (7th August 2015). 
